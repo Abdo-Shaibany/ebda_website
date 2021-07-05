@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.5" height="13.711" viewBox="0 0 19.5 13.711">
+  <g id="ar" transform="translate(-328.5 -445.145)">
+    <g id="en" transform="translate(328.5 369.145)">
+      <g id="Group_113" data-name="Group 113" transform="translate(0 76)">
+        <g id="Group_112" data-name="Group 112" transform="translate(0 0)">
+          <path id="Path_70" data-name="Path 70" d="M16.687,82.856l2.739-5.767A.762.762,0,0,0,18.738,76H.762A.762.762,0,0,0,0,76.762V88.949a.762.762,0,0,0,.762.762H18.738a.762.762,0,0,0,.688-1.089ZM1.523,88.188V77.523h16.01l-2.377,5.005a.762.762,0,0,0,0,.654l2.377,5.005Z" transform="translate(0 -76)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <text id="AR-2" data-name="AR" transform="translate(332 455)" fill="#fff" font-size="9" font-family="DINNextLTW23-Regular, DIN Next LT W23"><tspan x="0" y="0">AR</tspan></text>
+  </g>
+</svg>
